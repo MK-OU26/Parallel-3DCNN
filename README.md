@@ -3,7 +3,7 @@
 3D-CNNにおける、畳み込み層やプーリング層を並列構造にしたモデルです。
 <br>This model is a parallel structure of convolutional and pooling layers in a 3D-CNN.
 
-# FIGURE
+# Figure
 
 ![image](https://github.com/user-attachments/assets/ac5ccc65-eea4-4c6d-b4de-fc483ef55db4)
 
