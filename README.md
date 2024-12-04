@@ -36,7 +36,6 @@ I don't test environments under Linux and Mac.
 
 # Author
 
-* 作成者
 * 所属：Osaka University
 
 # License
