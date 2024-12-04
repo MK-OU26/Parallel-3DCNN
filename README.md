@@ -1,1 +1,1 @@
-# Paralell-3DCNN
+# Parallel-3DCNN
