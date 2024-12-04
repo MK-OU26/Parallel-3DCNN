@@ -15,7 +15,10 @@
 入力動画は、[UCF101](https://www.crcv.ucf.edu/data/UCF101.php)を使用しています。
 <br>The input video uses UCF101.
 
-# Requirement
+# Environment
+
+プログラムに使用した環境は以下の通りです。
+<br>The environment used for the program is as follows.
 
 * OS：Microsoft Windows 11 Home 
 * CPU：13th Gen Intel(R) Core(TM) i7-13700KF  3.40 GHz 
