@@ -12,6 +12,9 @@
 畳み込み層第1層のフィルタの様子を複数の視点から観察できるようにしています。
 <br>The filter in convolution layer 1 can be observed from multiple perspectives.
 
+入力動画は、UCF101(https://www.crcv.ucf.edu/data/UCF101.php)を使用しています。
+<br>The input video uses UCF101.
+
 # Requirement
 
 * OS：Microsoft Windows 11 Home 
@@ -41,3 +44,9 @@ I don't test environments under Linux and Mac.
 # License
 
 "parallel3dcnn.ipynb" is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
+
+# References
+
+* SoomroK, Roshan Zamir A, Shah M. UCF101: A Dataset of 101 Human Actions Classes From Videos in The Wild. CRCV-TR-12-01, 2012.
+* 斎藤康毅. ゼロから作るDeep Learning ― Pythonで学ぶディープラーニングの理論と実装. オライリー・ジャパン, 2022.
+* チーム・カルポ. 物体・画像認識と時系列データ処理入門. 秀和システム, 2021.
