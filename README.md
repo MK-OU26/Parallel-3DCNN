@@ -42,6 +42,7 @@ I don't test environments under Linux and Mac.
 
 # Author
 
+* Kazuki Maekawa
 * 所属：Osaka University
 
 # License
