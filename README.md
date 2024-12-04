@@ -12,7 +12,7 @@
 畳み込み層第1層のフィルタの様子を複数の視点から観察できるようにしています。
 <br>The filter in convolution layer 1 can be observed from multiple perspectives.
 
-入力動画は、UCF101(https://www.crcv.ucf.edu/data/UCF101.php)を使用しています。
+入力動画は、[UCF101](https://www.crcv.ucf.edu/data/UCF101.php)を使用しています。
 <br>The input video uses UCF101.
 
 # Requirement
