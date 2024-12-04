@@ -1,7 +1,7 @@
 # Parallel-3DCNN
 
 3D-CNNにおける、畳み込み層やプーリング層を並列構造にしたモデルです。
-This model is a parallel structure of convolutional and pooling layers in a 3D-CNN.
+<br>This model is a parallel structure of convolutional and pooling layers in a 3D-CNN.
 
 # FIGURE
 
@@ -10,7 +10,7 @@ This model is a parallel structure of convolutional and pooling layers in a 3D-C
 # Features
 
 畳み込み層第1層のフィルタの様子を複数の視点から観察できるようにしています。
-The filter in convolution layer 1 can be observed from multiple perspectives.
+<br>The filter in convolution layer 1 can be observed from multiple perspectives.
 
 # Requirement
 
