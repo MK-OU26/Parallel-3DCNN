@@ -15,6 +15,23 @@
 入力動画は、[UCF101](https://www.crcv.ucf.edu/data/UCF101.php)を使用しています。
 <br>The input video uses UCF101.
 
+# Conv1 change
+
+学習を行うことで、畳み込み層第1層のフィルタが変化します。
+<br>Learning changes the filters in convolution layer 1.
+
+例えば、学習前のフィルタは以下の様子ですが
+<br>For example, the filter before the study looks like this
+
+![Image](https://github.com/user-attachments/assets/5bc4ea59-1139-456b-be0d-ad342147159e)
+
+学習後には以下のように、色に選択的であったり方向に選択的であったりと、それぞれの特徴を持つように変化します。
+<br>After learning, they change to be selective for color or selective for direction, as shown below.
+
+![Image](https://github.com/user-attachments/assets/b87b85b8-d0a0-4ed7-a9e1-57d644e376ca)
+![Image](https://github.com/user-attachments/assets/e8f46f45-b91c-47d6-9111-26a0a3dc0612)
+
+
 # Environment
 
 プログラムに使用した環境は以下の通りです。
